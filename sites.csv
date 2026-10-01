@@ -1,205 +1,200 @@
-Country,LPMD,GM / OM,Site Name,Xsite Responsible
-USA,US7CV001,Eric Hart,Microsoft - Rockford,Bert Hammerbacher
-USA,USABQ002,Paul Chavez,Intel - Bluewater,Kodi Brown
-USA,USAUZ001,Brad Blankenheim / Steve Fearday,Multi Client - Aurora I,Jackie Rodriguez
-USA,USAUZ003,Graham Olson,Google Data Center - Aurora (FWA-BRT),DeJoie Simmons
-USA,USBB2001,Stephen Monette,AWS - Burbank PSC,Kendra Owen
-USA,USBOI003,Kameron Adams,ASML - Boise,Rich Thompson
-USA,USBXM001,Jackson Howes,Google Data Center - Bridgeport (UOS-WCK),Mychal Patterson
-USA,USC2K001,David Hoffner,Dupont - Circleville,John Chadick
-USA,USCHA001,Sulayman Sonko,Google - Chattanooga,Jennifer Martel
-USA,USCHD004,Derek Baggett,Intel - Palomino,Joseph King
-USA,USCHD005,Derek Baggett,Intel - AZ Chicago,Joseph King
-USA,USCHD007,Dustin Robinson,Intel - Kelly Campbell,Reginal Pearson
-USA,USCHD008,Dustin Robinson,Intel - Lotus,Joseph King
-USA,USCHD009,Irina Vartic,Intel OC5,Reginal Pearson
-USA,USCHD010,Christopher Zoltz/Kelly Campbell,Intel - CH8/CH2,Reginal Pearson
-USA,USCHD011,CeeCee Fresta,Google DC - Chandler,Danielle Biser
-USA,USCKV001,Heather Hall,Google - Clarksville,Jennifer Martel
-USA,USCKV002,Mario Sottosanti,Google Data Center - Clarksville (CKV-SPC),William Couch
-USA,USCSF002,Juan Zaldivar,"Dole - Carteret, NJ",Yarline Diaz
-USA,USCSZ001,Christian Tipold,Phillip Morris - Chester VA (Altria),Andrew Quallis
-USA,USCYL001,Allan Martinez,AWS IAD1 - Chantilly,Guilherme Umbelino
-USA,USDAL004,Jeffrey Gaiennie,Kone - Garland,Jeffrey Gaiennie
-USA,USDAL005,Malcolm Williams,Google - Dallas (DFW 2),Jennifer Martel
-USA,USDUR001,Ottie Frost,Wolfspeed - Alexander (TWA),Joseph Oppong
-USA,USEWV003,Joel Shenefield,P&G - Edwardsville,Tyler Stine
-USA,USFDB001,Michael Tuck,AWS IAD2 - Fredericksburg,Dena Copeland
-USA,USFIK001,Stephen Forman,ASML - Malta (Fishkill),Rich Thompson
-USA,USFKY002,James Harvey,AWS CVG 01 - Florence,Benjamin Gardner
-USA,USFOU001,Michael Santa Maria,Intel - Folsom,Joseph King
-USA,USFWA001,Jamal Kerdi,google data center-fort wayne,Ben Fry
-USA,USFWT002,Kyle Gillan,Google - Dallas (DFW 1),Damon Sheridan / Jennifer Martel
-USA,USGBE002,Julia Stivers,AWS AZA - Gilbert,Jasmine Moore
-USA,USGBL001,Malcolm Grabriel / Jarod Alford,Shared - Braselton,Janice Brown
-USA,USGYR001,Kyler McGee,Goodyear - Microsoft,Scott Edwin Miller
-USA,USHIO002,Cassie Billings,Intel - RS4,Joseph King
-USA,USHIO006,Andrew Anderson,Intel - RA1,Joseph King
-USA,USHNR001,TBD (Mike Tuck acting),AWS - Hainesport,Benjamin Gardner
-USA,USHNZ001,Charlene Pagan,Google - Henderson,Jennifer Martel
-USA,USHNZ003,Edrisa Suso,Google Data Center - Henderson (LAS-HEN),Deverick Rojas
-USA,USHOU012,Rodney Houston,Cisco - Houston,Anabel Santiago / Eliseo Villalobos / Vanessa Collins
-USA,USHOU013,John Chadick,American Airlines Houston,John Chadick
-USA,USHT5001,Caleb Ford,ASML - Austin (Hutto),Rich Thompson
-USA,USHT5002,Cameron Ordway,Google Data Center - Hutto (AUS-HTO),Katelynn Vaughn
-USA,USICT003,William Peters,Spirit - Wichita,Thomas Toney
-USA,USIDC001,Tally Bennett,Michelin - Independence,Randy Hyatt
-USA,USIND003,Andrew Rutter,Shared - Indianapolis Heidelberg,John Chadick
-USA,USIND004,Nyree Washington,Shared - Indianapolis Warehouse,John Chadick
-USA,USINP001,Sriram Gurumurthy,AWS  CVG 02 - Independence,Benjamin Gardner
-USA,USIOW001,Shannon Perteit,P&G - Iowa City,Tyler Stine
-USA,USISO001,John Washington,Spirit -  Kingston,John Chadick
-USA,USIWB001,Shannon Perteit,P&G West Branch,Tyler Stine
-USA,USIWV002,Sean Shrader,P&G - Tabler Station,Tyler Stine
-USA,USJLY001,DeVaughan Burke,AWS ATL - Lake City,India Anderson
-USA,USLCK001,Justin Szewczyk,Google Data Center - Lockbourne (CMH-CLB),Crystal Colgan
-USA,USLDA001,Misael Rodriguez,Draeger - Lansdale,Marlenny Lalloo
-USA,USLEI001,Rabin Lamichhane,ASML - Lehi,Rich Thompson
-USA,USLEI002,Rabin Lamichhane,ASML,Rabin Lamichhane / Benjamin Montoya
-USA,USLEI003,Rabin Lamichhane,TI,Benjamin Montoya
-USA,USLHK001,Mike Reitmire,Celenese - Little Hocking,Stephen Angus
-USA,USLHS001,Tesa Dyson,Google Data Center - Lithia Springs (ATL-IDI),Lynn McFashion
-USA,USLHS002,Mitch Benniefield,Google Data Center - Lithia Springs (ATL-RSI),DJ Griffin
-USA,USLII001,Homer Quiroz,"Panasonic - Los Indios, Tx",Eduardo Borjas
-USA,USLNC001,Jason Snezik,Google Data Center - Lancaster (CMH-LCT),Rick Knowlton
-USA,USLOF001,Becky Moseley,Invista - Camden (Sites LO2 and LOF),Becky Moseley
-USA,USLOF002,Becky Moseley,Invista - Salt Bath,Becky Moseley
-USA,USLTX001,Kevin Gossett,Shared - Dallas Lancaster 1,Vanessa Collins
-USA,USLTX002,Marcus Cedillo,Shared - Dallas Lancaster 2,Johnny Campbell
-USA,USLTX003,Micheal Hoffmeister,Google - Dallas (DFW 3),Jennifer Martel
-USA,USMEM004,David Kaplan,ASML - Memphis,Rich Thompson / William Thomas
-USA,USMLX002,Stephen Forman,ASML - Malta,Rich Thompson
-USA,USMNR001,Kevin Back,DuPont - Monroe,John Chadick
-USA,USMNZ002,David Kaplan,ASML - Manassas,Rich Thompson / Raymond Burchet
-USA,USMSC003,Angelo Diaz,Google Data Center - Mesa (PHX-MSA),John Coones
-USA,USMSM001,Kim Basye,AWS JAN 1 - Madison,Quentin Small
-USA,USNAZ001,Brendan Currie,AWN - PUIG - Nazareth,Brendan Currie
-USA,USNBB001,Paul Yu,ABB - New Berlin,Craig Zielinski
-USA,USNPY001,Paul Rivera,ASML - North Plains,Rich Thompson
-USA,USNTC001,David Kaplan,"ASML - Newtown, CT",Danny Morin / Rory Mann / Clay Roberson
-USA,USNTM001,Kim Basye,AWS JAN 2 - Newton,Kim Basye
-USA,USNVM001,David Ortiz,Google - Reno,Jennifer Martel / Kelly Patten
-USA,USNWJ001,Pamela Mcdaniel,Chemours - New Johnsonville,Paul O'Neal
-USA,USOLV001,Chris Bell,ABB - Olive Branch,Craig Zielinski
-USA,USPAS001,Rob Bedingflied,Shared - Pasadena,Rodger Price
-USA,USPCM001,Matt Nowakowski,Chemours - Pass Christian DeLisle (7685),Matt Nowakowski / Sherri Gregoire
-USA,USPCM002,Matt Nowakowski,Chemours - Pass Christian DeLisle (7990),Matt Nowakowski / Sherri Gregoire
-USA,USPFV001,Victor Lugo,Google Data Center - Pflugerville (AUS-PFG),Carnell Gulley
-USA,USPFX001,Rafael Villegas,Shared - Pharr 1,TBD
-USA,USPLZ002,Thadius Lane,ASML - Dallas (Plano),Rich Thompson
-USA,USPOZ002,David Moore,"Dole - Pooler, GA",Lionel Malava
-USA,USPRD001,Christopher Zglobicki,Shared - Port Reading,Marlenny Portuhondo
-USA,USPRD002,Allan Bittner,Shared - Port Reading 3,Nelly Alverez
-USA,USPTO001,Ryan Radzinski,AWS AVP - Pittston,Benjamin Gardner
-USA,USPTO0011,Ryan Radzinski,AWS-AVP pitston,Benjamin Gardner
-USA,USQWB003,Timothy Ferraro/James Gillies,AWS CMH - New Albany,Benjamin Gardner
-USA,USQWB004,Ryan MIller,Google Data Center - New Albany (CMH-NBY),Shawn Payne
-USA,USRAL001,John Butler,Sloan - Riverside (6681 River Run),Andrew Moore
-USA,USRAL002,John Butler,Kids2 - Sycamore Canyon CA,TBD
-USA,USRIS001,Oleh Druk,Google Data Center - Ridgeville (CHS-SML),Evan Dodson
-USA,USRRC002,Nathaniel Kedge,Intel - Rio Rancho 4 (RR4),Kodi Brown
-USA,USRZC001,Matthew Harrison,Intel - Rancho Cordova,Joseph King
-USA,USSBH001,Manny Garcia,Henkel - Streetsboro,Sylvia Birkhimer
-USA,USSBN001,Drew Pooters,AWS SBN 1 - South Bend,Kelsei Haithcox / Cory O'Neil
-USA,USSBN002,Drew Pooters,AWS SBN 2 - South Bend,Benjamin Gardner
-USA,USSCZ001,Angelia Castro,Intel - Santa Clara,Joseph King
-USA,USSGV007,Allan Martinez,AWS IAD - Sterling,Guilherme Umbelino
-USA,USSGV008,Mostafa Baydoun,Google Data Center - Sterling (IAD-ARA),Oghenetega Obuzor
-USA,USSGV009,William Crawford,google DC- Sterling,Valeria Rojas
-USA,USSJC001,Erik Lopez,ASML - San Jose,Rich Thompson
-USA,USSJC002,Angelica Castro,Intel - San Jose Brennan,Joseph King
-USA,USSJU003,TBD,Intel - Sherwood,Joseph King
-USA,USSLC004,Angel Aldana,AWS - Salt Lake City,Anatolia Dehaven
-USA,USSPA001,Mike Bramblett,Michelin - Spartanburg (USS),John Thomas
-USA,USSPK002,Jonathan Diaz,Google Data Center - Sparks(RNO-STY),Sarah Robinson
-USA,USSSG001,Wesley Etter,P&G - Shippensburg,Tyler Hollinger
-USA,USSTL003,Joel Shenefield,P&G Saint Louis 2,Tyler Stine
-USA,USTUL001,David Loving,Spirit - Tulsa,John Chadick
-USA,USUJD001,Misael Rodriguez,Shared - Folcroft,John Thomas
-USA,USWCB001,Aaron Solis,"Multi Client - West Columbia (CAYCE, Metso, and Elgin)",Brett Young / Colby Kneece / Taylor Locklear
-USA,USWGO001,Ray Holzinger,Kraft - Winchester,TBD
-USA,USWYN001,Michael Szabados,Kering Wayne,Naquanta Hassan
-USA,USXCL001,Shawn Cox,P&G Brown Summit (MFG Plant),Mike Wilkes / Flamur Konushevci
-USA,USXCL002,Shawn Cox,P&G - Summit (Warehouse),Mike Wilkes / Flamur Konushevci
-USA,USXEQ001,Kevin Hollingshead,Google - Columbus,Jennifer Martel
-USA,USXEQ002,Kevin Hollingshead,Google - Canal Winchester (Overflow),Jennifer Martel
-USA,USXFR004,Dennis Garcia,Shared - Slover,Pedro Villa
-USA,USXFR005,Daniel Zamora,Multi Client - Bar Harbor,Marina Sandoval
-USA,USXWT001,Robert Hartzell,Home Depot - Indiana(THD),Jake Doran
-USA,USZES001,Mark Metzler,"Henkel - West Hazelton, PA",Zachary Tatro
-Brazil,BRCJM002,Paulo Barreto,Cajamar II ( AWS),Jederson Freire
-Mexico,MXAPD003,Arturo García,MT6 Monterrey,Yahaira Salas
-Mexico,MXMTY006,Arturo García,Aguafria (MT4),Yahaira Salas
-Mexico,MXAGU001,Heriberto Abundis,Aguascalientes,Adrian Martinez
-Panama,PAPTY003,Norela Esquivel,AMSA,TBD
-Mexico,MXMIR001,Carlos Garcia Alvarez,Altamira Chemours,Martha Paredes
-Mexico,MXAPD001,,Apodaca MT2,TBD
-Mexico,MXAPD002,Arturo Garcia,Apodaca2 (MT3),Yahaira Salas
-Brazil,BRARQ001,Rogerio Oliveira,Araquari,Lucas Silva
-Brazil,BRSME001,Paulo Barreto,Sumare,Jederson Freire
-Brazil,BRBRI001,Juliana Alves,Barueri,Daniel Silva
-Mexico,MXZAP001,Luis Carrasquedo,Beam Suntory,Juan Vazquez
-Chile,CLSCL009,Nicolas Ortuzar,Bodenor ENEA ( Apple),Nicolas Arias
-Brazil,BRCJM001,Augusto Milan,Cajamar I,Frederico Mantelato
-Colombia,COCTG005,Jorge Perez,Cartagena,Heider Puentes
-Mexico,MXCUU004,Juan Padilla,Chihuahua,TBD
-Mexico,MXMTY005,Israel Martinez,Cienega de Flores,Joel Hernandez
-Mexico,MXGDL012,Miguel Gutierrez,Cisco Guadalajara,Juan Vazquez
-Mexico,MXCJS003,Hugo Sotelo,Cisco Juárez,Brayan Garcia
-Mexico,MXCUT005,Jorge Vargas,Cuautitlan SBD,Raquel Garcia
-Brazil,BREDA001,Paulo Barreto,Embu das Artes - Givaudan,Bruno Machado
-Brazil,BREXA001,Lisandra Tiefensee,Extrema,Lisandra Tiefensee
-Mexico,MXEMZ001,Gustavo Jauregui,Givaudan - Siqueiros,Dulce Itzel Sanchez
-Mexico,MX7TL002,Heriberto Abundis,Guadalajara TEC II,Ian Sanchez
-Brazil,BRHTL002,Icaro Gentil,Hortolandia,Gabriel Coelho
-Mexico,MXGDL010,Juan Medrano,Guadalajara Vesta,Erika Gomez
-Mexico,MXZAP003,Alain Francisco,Intel Guadalajara,Ricardo Ruiz
-Colombia,COBOG021,Elvis Moreno,Intexzona,Heider Puentes
-Mexico,MXIRP003,Ismael Loera,Irapuato,Daniela Garcia
-Brazil,BRIPV001,Luis Hiroshi,Itupeva,Victor Duarte
-Brazil,BRJUN002,Fernanda Pinheiro,Jundiaí,Edelise Simonato Petz
-Colombia,COBOG022,Elvis Moreno,LATAM,Heider Puentes
-Panama,PACFZ002,Hector Mendez,LMS ( Huawei),Jaime Chairez
-Chile,CLSCL010,Oscar Ruz,Lo Boza2,Nicolas Arias
-Mexico,MXMAM002,Patricia Rizo,Matamoros,TBD
-Mexico,MXCJS004,Hilda Moriel,Microsoft II Juarez,Aaron Hernandez
-Mexico,MXCJS001,Juan Gonzalez,Microsoft III Juarez,Fatima Stephanie Perales
-Mexico,MXCJS002,Hilda Moriel,Microsoft Juarez,Cynthia Salinas
-Mexico,MXZAP002,Hugo Armando,Molex,Juan Vazquez
-Panama,PACFZ0021,Hector Mendez,Multiclientes,Jaime Chairez
-Mexico,MXCUT001,Jorge Vargas,O'Donnell,Bryan Giovanny Tapia
-Mexico,MXCTN001,Jorge Vargas,O'Donnell 2,Bryan Giovanny Tapia
-Mexico,MXTPZ006,Sergio Gascasoto,PG6,Veronica Hernandez
-Argentina,ARBUE008,Sergio Altamirano,PLC,TBC
-Mexico,MXQRO04,Ismael Loera,Queretaro,Daniela Garcia
-Mexico,MXSQE001,Erik Montalvo,Queretaro Pandora ( google),Salvador Saldaña
-Mexico,MXREX007,David Pizaña,Reynosa BTS,Brisa Luna
-Mexico,MXREX006,David Pizaña,Reynosa IGS,Jhonatan Aleman
-Argentina,ARBVZ002,Federico Gheco,RPU ( Volkswagen),Alan Iglesias
-Mexico,MXSLW001,Perez Martinez Israel,Saltillo,Wendy Garcia
-Mexico,MXRMA001,Perez Martinez Israel,Saltillo 2 (Ramos),Wendy Garcia
-Brazil,BRSJS001,Rogerio Oliveira,San Jose du Pinhais,Lucas Silva
-Mexico,MXSLP001,Luis Morales,San Luis Potosi,Ivan Salinas
-Brazil,BRSOD002,Juliana Alves,Sorocaba Huawei,Jessica Queiroz
-Brazil,BRSOD003,Osmil Arruda,Sorocaba Vertiv,Kaue Curdoglo
-Mexico,MXTIJ003,Barush Lozano,Tijuana (Prologis),Griselda Navarrete
-Argentina,ARBVZ001,Sabrina Molina,TLC,Lisandra Tiefensee
-Mexico,MXCUT004,Sergio Gascasoto,TR4,Diana Mendoza
-Mexico,MXCUT002,Israel Perez,TR5,TBD
-Mexico,MXIRP004,,MXIRP004,TBD
-Peru,PELIM003,Erick Alvarado,Villa El Salvador ( VES) -BSF,TBD
-Peru,PELIM006,Erick Alvarado,Villa El Salvador ( VES)-Aldea,TBD
-Canada,CAABR001,Daniel Erwin,L920CAL - Calgary,Arshpreet Kaur
-Canada,CABLT001,Cathy Barreira,Colgate,Manjit Khela
-Canada,CABLT002,Milton Pauvif,Mars,Matt Walsh
-Canada,CABRP002,Gagandeep Dhesi,L920BRP - Brampton,Hilda Lopez
-Canada,CABRP008,Martin Alexander,Tyco (Omni 2),Javier Cortez
-Canada,CABRP009,Sonia Visca,Clorox Co Pack,Nezam Rampersad
-Canada,CABRP010,Sonia Visca,Clorox,Nezam Rampersad
-Canada,CAGLP001,Kris Koczka,Maple Leaf,Shawn MacMillan
-Canada,CAMIL001,Ryan Quinn,Milton 1,Prexa Vora
-Canada,CAMIL002,Richard Lemieux,Milton 2,Caleb Copeland
-Canada,CAISF003,Gary Peters,L920INN - Innisfil,Ryan Isidore
-Canada,CAOAK001,Mike Atkinson,BBW,Michael Melihercsik
-Canada,CATBG001,Sheena Chyc,Bridgestone,Chyc Sheena
-Canada,CADON001,Carole Ann Hall,Google Montreal,Syed Raza
+Country,LPMD,GM / OM,Site Name,Xsite Responsible,GM Email
+USA,US7CV001,Eric Hart,Microsoft - Rockford,Bert Hammerbacher,eric.hart@dsv.com
+USA,USABQ002,Paul Chavez,Intel - Bluewater,Kodi Brown,paul.chavez@dsv.com
+USA,USAUZ001,Brad Blankenheim / Steve Fearday,Multi Client - Aurora I,Jackie Rodriguez,brad.blankenheim@us.dsv.com
+USA,USAUZ003,Graham Olson,Google Data Center - Aurora (FWA-BRT),DeJoie Simmons,graham.olson@dsv.com
+USA,USBB2001,Stephen Monette,AWS - Burbank PSC,Kendra Owen,stephen.monette@dsv.com
+USA,USBOI003,Kameron Adams,ASML - Boise,Rich Thompson,kameron.adams@dsv.com
+USA,USBXM001,Jackson Howes,Google Data Center - Bridgeport (UOS-WCK),Mychal Patterson,jackson.howes@dbschenker.com
+USA,USC2K001,David Hoffner,Dupont - Circleville,John Chadick,david.hoffner@dsv.com
+USA,USCHA001,Sulayman Sonko,Google - Chattanooga,Jennifer Martel,sulayman.sonko@dsv.com
+USA,USCHD004,Derek Baggett,Intel - Palomino,Joseph King,derek.baggett@dsv.com
+USA,USCHD005,Derek Baggett,Intel - AZ Chicago,Joseph King,derek.baggett@dsv.com
+USA,USCHD007,Dustin Robinson,Intel - Kelly Campbell,Reginal Pearson,Dusty.Robinson@dbschenker.com
+USA,USCHD008,Dustin Robinson,Intel - Lotus,Joseph King,Dusty.Robinson@dbschenker.com
+USA,USCHD009,Irina Vartic,Intel OC5,Reginal Pearson,irina.vartic@dsv.com
+USA,USCHD010,Christopher Zoltz,Intel - CH8/CH2,Reginal Pearson,christopher.zoltz@dsv.com
+USA,USCHD011,CeeCee Fresta,Google DC - Chandler,Danielle Biser,champeel.fresta@dsv.com
+USA,USCKV001,Heather Hall,Google - Clarksville,Jennifer Martel,heather.hall@dsv.com
+USA,USCKV002,Mario Sottosanti,Google Data Center - Clarksville (CKV-SPC),William Couch,mario.sottosanti@dsv.com
+USA,USCSF002,Juan Zaldivar,"Dole - Carteret, NJ",Yarline Diaz,Juan.Zaldivar1@us.dsv.com
+USA,USCSZ001,Christian Tipold,Phillip Morris - Chester VA (Altria),Andrew Quallis,christian.michael.tipold@dsv.com
+USA,USCYL001,Allan Martinez,AWS IAD1 - Chantilly,Guilherme Umbelino,allan.martinez@dsv.com
+USA,USDAL004,Jeffrey Gaiennie,Kone - Garland,Jeffrey Gaiennie,jeffrey.gaiennie@dsv.com
+USA,USDAL005,Malcolm Williams,Google - Dallas (DFW 2),Jennifer Martel,malcolm.davaughn.williams@dsv.com
+USA,USDUR001,Ottie Frost,Wolfspeed - Alexander (TWA),Joseph Oppong,ottie.frost@us.dsv.com
+USA,USEWV003,Joel Shenefield,P&G - Edwardsville,Tyler Stine,joel.shenefield@dsv.com
+USA,USFDB001,Michael Tuck,AWS IAD2 - Fredericksburg,Dena Copeland,michael.tuck@dsv.com
+USA,USFIK001,Stephen Forman,ASML - Malta (Fishkill),Rich Thompson,stephen.forman@dsv.com
+USA,USFKY002,James Harvey,AWS CVG 01 - Florence,Benjamin Gardner,james.jason.harvey@dsv.com
+USA,USFOU001,Michael Santa Maria,Intel - Folsom,Joseph King,cassie.billings@dsv.com
+USA,USFWA001,Jamal Kerdi,google data center-fort wayne,Ben Fry,jamel.kerdi@dsv.com
+USA,USFWT002,Kyle Gillan,Google - Dallas (DFW 1),Damon Sheridan / Jennifer Martel,kyle.gillan@dsv.com
+USA,USGBE002,Julia Stivers,AWS AZA - Gilbert,Jasmine Moore,julia.stivers@dsv.com
+USA,USGBL001,Malcolm Grabriel / Jarod Alford,Shared - Braselton,Janice Brown,malcolm.gabriel@dsv.com
+USA,USGYR001,Kyler McGee,Goodyear - Microsoft,Scott Edwin Miller,kyler.mcgee1@dsv.com
+USA,USHIO002,Cassie Billings,Intel - RS4,Joseph King,cassie.billings@dsv.com
+USA,USHIO006,Andrew Anderson,Intel - RA1,Joseph King,andrew.anderson@dsv.com
+USA,USHNR001,TBD (Mike Tuck acting),AWS - Hainesport,Benjamin Gardner,michael.tuck@dsv.com
+USA,USHNZ001,Charlene Pagan,Google - Henderson,Jennifer Martel,charlene.pagan@dsv.com
+USA,USHNZ003,Edrisa Suso,Google Data Center - Henderson (LAS-HEN),Deverick Rojas,edrisa.suso@dsv.com
+USA,USHOU012,Rodney Houston,Cisco - Houston,Anabel Santiago / Eliseo Villalobos / Vanessa Collins,rodney.houston@dsv.com
+USA,USHOU013,John Chadick,American Airlines Houston,John Chadick,john.chadick@dsv.com
+USA,USHT5001,Caleb Ford,ASML - Austin (Hutto),Rich Thompson,caleb.ford@dsv.com
+USA,USHT5002,Cameron Ordway,Google Data Center - Hutto (AUS-HTO),Katelynn Vaughn,cameron.ordway@dsv.com
+USA,USICT003,William Peters,Spirit - Wichita,Thomas Toney,william.peters@dsv.com
+USA,USIDC001,Tally Bennett,Michelin - Independence,Randy Hyatt,tally.bennett@us.dsv.com
+USA,USIND003,Andrew Rutter,Shared - Indianapolis Heidelberg,John Chadick,andrew.rutter@dsv.com
+USA,USIND004,Nyree Washington,Shared - Indianapolis Warehouse,John Chadick,nyree.washington@dsv.com
+USA,USINP001,Sriram Gurumurthy,AWS  CVG 02 - Independence,Benjamin Gardner,sriram.gurumurthy@dsv.com
+USA,USIOW001,Shannon Perteit,P&G - Iowa City,Tyler Stine,shannon.perteit@dsv.com
+USA,USISO001,John Washington,Spirit -  Kingston,John Chadick,john.washington@dsv.com
+USA,USIWB001,Shannon Perteit,P&G West Branch,Tyler Stine,shannon.perteit@dsv.com
+USA,USIWV002,Sean Shrader,P&G - Tabler Station,Tyler Stine,sean.shrader@dsv.com
+USA,USJLY001,DeVaughan Burke,AWS ATL - Lake City,India Anderson,devaughn.burke@dbschenker.com
+USA,USLCK001,Justin Szewczyk,Google Data Center - Lockbourne (CMH-CLB),Crystal Colgan,justin.szewczyk@dsv.com
+USA,USLDA001,Misael Rodriguez,Draeger - Lansdale,Marlenny Lalloo,Misael.Rodriguez@us.dsv.com
+USA,USLEI001,Rabin Lamichhane,ASML - Lehi,Rich Thompson,rabin.lamichhane@dsv.com
+USA,USLEI002,Rabin Lamichhane,ASML,Rabin Lamichhane / Benjamin Montoya,rabin.lamichhane@dsv.com
+USA,USLEI003,Rabin Lamichhane,TI,Benjamin Montoya,rabin.lamichhane@dsv.com
+USA,USLHK001,Mike Reitmire,Celenese - Little Hocking,Stephen Angus,mike.reitmire@dsv.com
+USA,USLHS001,Tesa Dyson,Google Data Center - Lithia Springs (ATL-IDI),Lynn McFashion,jennifer.martel@dsv.com
+USA,USLHS002,Mitch Benniefield,Google Data Center - Lithia Springs (ATL-RSI),DJ Griffin,jennifer.martel@dsv.com
+USA,USLII001,Homer Quiroz,"Panasonic - Los Indios, Tx",Eduardo Borjas,homer.quiroz@us.dsv.com
+USA,USLNC001,Jason Snezik,Google Data Center - Lancaster (CMH-LCT),Rick Knowlton,jason.snezik@dsv.com
+USA,USLOF001,Becky Moseley,Invista - Camden (Sites LO2 and LOF),Becky Moseley,becky.moseley@us.dsv.com
+USA,USLOF002,Becky Moseley,Invista - Salt Bath,Becky Moseley,becky.moseley@us.dsv.com
+USA,USLTX001,Kevin Gossett,Shared - Dallas Lancaster 1,Vanessa Collins,kevin.gossett@dsv.com
+USA,USLTX002,Marcus Cedillo,Shared - Dallas Lancaster 2,Johnny Campbell,Marcus.Cedillo@us.dsv.com
+USA,USLTX003,Micheal Hoffmeister,Google - Dallas (DFW 3),Jennifer Martel,michael.hoffmeister@dsv.com
+USA,USMEM004,David Kaplan,ASML - Memphis,Rich Thompson / William Thomas,david.kaplan@dsv.com
+USA,USMLX002,Stephen Forman,ASML - Malta,Rich Thompson,stephen.forman@dsv.com
+USA,USMNR001,Kevin Back,DuPont - Monroe,John Chadick,kevin.back@us.dsv.com
+USA,USMNZ002,David Kaplan,ASML - Manassas,Rich Thompson / Raymond Burchet,david.kaplan@dsv.com
+USA,USMSC003,Angelo Diaz,Google Data Center - Mesa (PHX-MSA),John Coones,angelo.diaz@dsv.com
+USA,USMSM001,Kim Basye,AWS JAN 1 - Madison,Quentin Small,kim.basye@dsv.com
+USA,USNAZ001,Brendan Currie,AWN - PUIG - Nazareth,Brendan Currie,Brendan.Currie@us.dsv.com
+USA,USNBB001,Paul Yu,ABB - New Berlin,Craig Zielinski,paul.yu@dsv.com
+USA,USNPY001,Paul Rivera,ASML - North Plains,Rich Thompson,paul.rivera@dsv.com
+USA,USNTC001,David Kaplan,"ASML - Newtown, CT",Danny Morin / Rory Mann / Clay Roberson,david.kaplan@dsv.com
+USA,USNTM001,Kim Basye,AWS JAN 2 - Newton,Kim Basye,kim.basye@dsv.com
+USA,USNVM001,David Ortiz,Google - Reno,Jennifer Martel / Kelly Patten,david.ortiz1@dsv.com
+USA,USNWJ001,Pamela Mcdaniel,Chemours - New Johnsonville,Paul O'Neal,pamela.mcdaniel@dsv.com
+USA,USOLV001,Chris Bell,ABB - Olive Branch,Craig Zielinski,christopher.bell1@dsv.com
+USA,USPAS001,Rob Bedingflied,Shared - Pasadena,Rodger Price,rob.bedingfield@dsv.com
+USA,USPCM001,Matt Nowakowski,Chemours - Pass Christian DeLisle (7685),Matt Nowakowski / Sherri Gregoire,matt.nowakowski@us.dsv.com
+USA,USPCM002,Matt Nowakowski,Chemours - Pass Christian DeLisle (7990),Matt Nowakowski / Sherri Gregoire,matt.nowakowski@us.dsv.com
+USA,USPFV001,Victor Lugo,Google Data Center - Pflugerville (AUS-PFG),Carnell Gulley,victor.lugo@dsv.com
+USA,USPFX001,Rafael Villegas,Shared - Pharr 1,TBD,rafael.villegas@us.dsv.com
+USA,USPLZ002,Thadius Lane,ASML - Dallas (Plano),Rich Thompson,thadius.lane@dsv.com
+USA,USPOZ002,David Moore,"Dole - Pooler, GA",Lionel Malava,david.moore@us.dsv.com
+USA,USPRD001,Christopher Zglobicki,Shared - Port Reading,Marlenny Portuhondo,christopher.zglobicki@dsv.com
+USA,USPRD002,Allan Bittner,Shared - Port Reading 3,Nelly Alverez,Allan.Bittner@us.dsv.com
+USA,USPTO001,Ryan Radzinski,AWS AVP - Pittston,Benjamin Gardner,ryan.radzinski@dsv.com
+USA,USPTO0011,Ryan Radzinski,AWS-AVP pitston,Benjamin Gardner,ryan.radzinski@dsv.com
+USA,USQWB003,Timothy Ferraro/James Gillies,AWS CMH - New Albany,Benjamin Gardner,timothy.ferraro@dsv.com
+USA,USQWB004,Ryan MIller,Google Data Center - New Albany (CMH-NBY),Shawn Payne,ryan.miller1@dsv.com
+USA,USRAL001,John Butler,Sloan - Riverside (6681 River Run),Andrew Moore,John.Butler@us.dsv.com
+USA,USRAL002,John Butler,Kids2 - Sycamore Canyon CA,TBD,John.Butler@us.dsv.com
+USA,USRIS001,Oleh Druk,Google Data Center - Ridgeville (CHS-SML),Evan Dodson,oleh.druk@dsv.com
+USA,USRRC002,Nathaniel Kedge,Intel - Rio Rancho 4 (RR4),Kodi Brown,nathaniel.kedge@dsv.com
+USA,USRZC001,Matthew Harrison,Intel - Rancho Cordova,Joseph King,matthew.harrison@solidigm.com
+USA,USSBH001,Manny Garcia,Henkel - Streetsboro,Sylvia Birkhimer,manny.garcia@dsv.com
+USA,USSBN001,Drew Pooters,AWS SBN 1 - South Bend,Kelsei Haithcox / Cory O'Neil,drew.pooters@dsv.com
+USA,USSBN002,Drew Pooters,AWS SBN 2 - South Bend,Benjamin Gardner,drew.pooters@dsv.com
+USA,USSCZ001,Angelia Castro,Intel - Santa Clara,Joseph King,angelia.castro@dsv.com
+USA,USSGV007,Allan Martinez,AWS IAD - Sterling,Guilherme Umbelino,allan.martinez@dsv.com
+USA,USSGV008,Mostafa Baydoun,Google Data Center - Sterling (IAD-ARA),Oghenetega Obuzor,mostafa.baydoun@dsv.com
+USA,USSGV009,William Crawford,google DC- Sterling,Valeria Rojas,william.crawford@dsv.com
+USA,USSJC001,Erik Lopez,ASML - San Jose,Rich Thompson,erik.cob@dsv.com
+USA,USSJC002,Angelica Castro,Intel - San Jose Brennan,Joseph King,angeli.castro@dsv.com
+USA,USSJU003,TBD,Intel - Sherwood,Joseph King,cassie.billings@dsv.com
+USA,USSLC004,Angel Aldana,AWS - Salt Lake City,Anatolia Dehaven,angel.aldana@dsv.com
+USA,USSPA001,Mike Bramblett,Michelin - Spartanburg (USS),John Thomas,mike.bramblett@dsv.com
+USA,USSPK002,Jonathan Diaz,Google Data Center - Sparks(RNO-STY),Sarah Robinson,jonathan.diaz@dsv.com
+USA,USSSG001,Wesley Etter,P&G - Shippensburg,Tyler Hollinger,wesley.etter@dsv.com
+USA,USSTL003,Joel Shenefield,P&G Saint Louis 2,Tyler Stine,joel.shenefield@dsv.com
+USA,USTUL001,David Loving,Spirit - Tulsa,John Chadick,david.loving@dsv.com
+USA,USUJD001,Misael Rodriguez,Shared - Folcroft,John Thomas,Misael.Rodriguez@us.dsv.com
+USA,USWCB001,Aaron Solis,"Multi Client - West Columbia (CAYCE, Metso, and Elgin)",Brett Young / Colby Kneece / Taylor Locklear,aaron.solis@dsv.com
+USA,USWGO001,Ray Holzinger,Kraft - Winchester,TBD,ray.holzinger@dsv.com
+USA,USWYN001,Michael Szabados,Kering Wayne,Naquanta Hassan,Michael.Szabados@us.dsv.com
+USA,USXCL001,Shawn Cox,P&G Brown Summit (MFG Plant),Mike Wilkes / Flamur Konushevci,shawn.cox@dsv.com
+USA,USXCL002,Shawn Cox,P&G - Summit (Warehouse),Mike Wilkes / Flamur Konushevci,shawn.cox@dsv.com
+USA,USXEQ001,Kevin Hollingshead,Google - Columbus,Jennifer Martel,kevin.hollingshead@dsv.com
+USA,USXEQ002,Kevin Hollingshead,Google - Canal Winchester (Overflow),Jennifer Martel,kevin.hollingshead@dsv.com
+USA,USXFR004,Dennis Garcia,Shared - Slover,Pedro Villa,dennis.garcia@dsv.com
+USA,USXFR005,Daniel Zamora,Multi Client - Bar Harbor,Marina Sandoval,daniel.zamora@dsv.com
+USA,USXWT001,Robert Hartzell,Home Depot - Indiana(THD),Jake Doran,robert.hartzell@US.DSV.COM
+USA,USZES001,Mark Metzler,"Henkel - West Hazelton, PA",Zachary Tatro,mark.metzler@dsv.com
+Brazil,BRCJM002,Paulo Barreto,Cajamar II ( AWS),Jederson Freire,paulo.barreto1@dsv.com
+Mexico,MXAPD003,Arturo García,MT6 Monterrey,Yahaira Salas,Arturo.Garcia@mx.dsv.com
+Mexico,MXMTY006,Arturo García,Aguafria (MT4),Yahaira Salas,Arturo.Garcia@mx.dsv.com
+Mexico,MXAGU001,Heriberto Abundis,Aguascalientes,Adrian Martinez,heriberto.abundis@mx.dsv.com
+Panama,PAPTY003,Norela Esquivel,AMSA,TBD,norela.esquivel@pa.dsv.com
+Mexico,MXMIR001,Carlos Garcia Alvarez,Altamira Chemours,Martha Paredes,carlos.garcia7@dsv.com
+Mexico,MXAPD002,Arturo Garcia,Apodaca2 (MT3),Yahaira Salas,Arturo.Garcia@mx.dsv.com
+Brazil,BRARQ001,Rogerio Oliveira,Araquari,Lucas Silva,rogerio.oliveira@dsv.com
+Brazil,BRSME001,Paulo Barreto,Sumare,Jederson Freire,paulo.barreto1@dsv.com
+Brazil,BRBRI001,Juliana Alves,Barueri,Daniel Silva,Juliana.alves@br.dsv.com
+Mexico,MXZAP001,Luis Carrasquedo,Beam Suntory,Juan Vazquez,luis.carrasquedo@dsv.com
+Chile,CLSCL009,Nicolas Ortuzar,Bodenor ENEA ( Apple),Nicolas Arias,nicolas.ortuzar@dbschenker.com
+Brazil,BRCJM001,Augusto Milan,Cajamar I,Frederico Mantelato,Augusto.milan@dsv.com
+Colombia,COCTG005,Jorge Perez,Cartagena,Heider Puentes,jorge.perez@dsv.com
+Mexico,MXCUU004,Juan Padilla,Chihuahua,TBD,Juan.Padilla@mx.dsv.com
+Mexico,MXMTY005,Israel Martinez,Cienega de Flores,Joel Hernandez,israel.perez@dsv.com
+Mexico,MXGDL012,Miguel Gutierrez,Cisco Guadalajara,Juan Vazquez,miguel.angel.gutierrez@dsv.com
+Mexico,MXCJS003,Hugo Sotelo,Cisco Juárez,Brayan Garcia,hugo.sotelo1@dsv.com
+Mexico,MXCUT005,Jorge Vargas,Cuautitlan SBD,Raquel Garcia,jorge.vargasrodriguez@dsv.com
+Brazil,BREDA001,Paulo Barreto,Embu das Artes - Givaudan,Bruno Machado,paulo.barreto1@dsv.com
+Brazil,BREXA001,Lisandra Tiefensee,Extrema,Lisandra Tiefensee,lisandra.tiefensee@dsv.com
+Mexico,MXEMZ001,Gustavo Jauregui,Givaudan - Siqueiros,Dulce Itzel Sanchez,gustavo.jauregui@dsv.com
+Mexico,MX7TL002,Heriberto Abundis,Guadalajara TEC II,Ian Sanchez,heriberto.abundis@mx.dsv.com
+Brazil,BRHTL002,Icaro Gentil,Hortolandia,Gabriel Coelho,icaro.gentil@br.dsv.com
+Mexico,MXGDL010,Juan Medrano,Guadalajara Vesta,Erika Gomez,juan.medrano@mx.dsv.com
+Mexico,MXZAP003,Alain Francisco,Intel Guadalajara,Ricardo Ruiz,alain.francisco.rodriguez@dsv.com
+Colombia,COBOG021,Elvis Moreno,Intexzona,Heider Puentes,elvis.moreno@dsv.com
+Mexico,MXIRP003,Ismael Loera,Irapuato,Daniela Garcia,ismael.loera@dsv.com
+Brazil,BRIPV001,Luis Hiroshi,Itupeva,Victor Duarte,luis.hiroshi1@dsv.com
+Brazil,BRJUN002,Fernanda Pinheiro,Jundiaí,Edelise Simonato Petz,fernanda.pinheiro@dsv.com
+Colombia,COBOG022,Elvis Moreno,LATAM,Heider Puentes,elvis.moreno@dsv.com
+Panama,PACFZ002,Hector Mendez,LMS ( Huawei),Jaime Chairez,hector.mendez@pa.dsv.com
+Chile,CLSCL010,Oscar Ruz,Lo Boza2,Nicolas Arias,Oscar.Ruz@dbschenker.com
+Mexico,MXMAM002,Patricia Rizo,Matamoros,TBD,patricia.rizo@mx.dsv.com
+Mexico,MXCJS004,Hilda Moriel,Microsoft II Juarez,Aaron Hernandez,hilda.moriel.guzman@dsv.com
+Mexico,MXCJS001,Juan Gonzalez,Microsoft III Juarez,Fatima Stephanie Perales,juan.francisco.gonzalez@dsv.com
+Mexico,MXCJS002,Hilda Moriel,Microsoft Juarez,Cynthia Salinas,hilda.moriel.guzman@dsv.com
+Mexico,MXZAP002,Hugo Armando,Molex,Juan Vazquez,hugoarmando.ulloa@dsv.com
+Panama,PACFZ0021,Hector Mendez,Multiclientes,Jaime Chairez,hector.mendez@pa.dsv.com
+Mexico,MXCUT001,Jorge Vargas,O'Donnell,Bryan Giovanny Tapia,jorge.vargasrodriguez@dsv.com
+Mexico,MXCTN001,Jorge Vargas,O'Donnell 2,Bryan Giovanny Tapia,jorge.vargasrodriguez@dsv.com
+Mexico,MXTPZ006,Sergio Gascasoto,PG6,Veronica Hernandez,sergio.gascasoto@dsv.com
+Argentina,ARBUE008,Sergio Altamirano,PLC,TBC,sergio.altamirano@dbschenker.com
+Mexico,MXQRO04,Ismael Loera,Queretaro,Daniela Garcia,ismael.loera@dsv.com
+Mexico,MXSQE001,Erik Montalvo,Queretaro Pandora ( google),Salvador Saldaña,erik.montalvo@dsv.com
+Mexico,MXREX007,David Pizaña,Reynosa BTS,Brisa Luna,david.pizana@dsv.com
+Mexico,MXREX006,David Pizaña,Reynosa IGS,Jhonatan Aleman,david.pizana@dsv.com
+Argentina,ARBVZ002,Federico Gheco,RPU ( Volkswagen),Alan Iglesias,federico.gheco@dbschenker.com
+Brazil,BRSJS001,Rogerio Oliveira,San Jose du Pinhais,Lucas Silva,rogerio.oliveira@dsv.com
+Mexico,MXSLP001,Luis Morales,San Luis Potosi,Ivan Salinas,luis.morales@mx.dsv.com
+Brazil,BRSOD002,Juliana Alves,Sorocaba Huawei,Jessica Queiroz,Juliana.alves@br.dsv.com
+Brazil,BRSOD003,Osmil Arruda,Sorocaba Vertiv,Kaue Curdoglo,Osmil.arruda@br.dsv.com
+Mexico,MXTIJ003,Barush Lozano,Tijuana (Prologis),Griselda Navarrete,Barush.Lozano@mx.dsv.com
+Argentina,ARBVZ001,Sabrina Molina,TLC,Lisandra Tiefensee,Sabrina.Molina@dbschenker.com
+Mexico,MXCUT004,Sergio Gascasoto,TR4,Diana Mendoza,sergio.gascasoto@dsv.com
+Peru,PELIM003,Erick Alvarado,Villa El Salvador ( VES) -BSF,TBD,erick.alvarado@dsv.com
+Peru,PELIM006,Erick Alvarado,Villa El Salvador ( VES)-Aldea,TBD,erick.alvarado@dsv.com
+Canada,CAABR001,Daniel Erwin,L920CAL - Calgary,Arshpreet Kaur,Daniel.Erwin@ca.dsv.com
+Canada,CABLT001,Cathy Barreira,Colgate,Manjit Khela,cathy.barreira@dbschenker.com
+Canada,CABLT002,Milton Pauvif,Mars,Matt Walsh,milton.pauvif@dsv.com
+Canada,CABRP002,Gagandeep Dhesi,L920BRP - Brampton,Hilda Lopez,gagandeep.dhesi@ca.dsv.com
+Canada,CABRP008,Martin Alexander,Tyco (Omni 2),Javier Cortez,martin.alexander@dbschenker.com
+Canada,CABRP009,Sonia Visca,Clorox Co Pack,Nezam Rampersad,sonia.visca@dsv.com
+Canada,CABRP010,Sonia Visca,Clorox,Nezam Rampersad,sonia.visca@dsv.com
+Canada,CAGLP001,Kris Koczka,Maple Leaf,Shawn MacMillan,kris.koczka@dbschenker.com
+Canada,CAMIL001,Ryan Quinn,Milton 1,Prexa Vora,ryan.quinn@ca.dsv.com
+Canada,CAMIL002,Richard Lemieux,Milton 2,Caleb Copeland,Richard.Lemieux@ca.dsv.com
+Canada,CAISF003,Gary Peters,L920INN - Innisfil,Ryan Isidore,gary.peters@ca.dsv.com
+Canada,CAOAK001,Mike Atkinson,BBW,Michael Melihercsik,michael.atkinson@dsv.com
+Canada,CATBG001,Sheena Chyc,Bridgestone,Chyc Sheena,sheena.chyc@dsv.com
+Canada,CADON001,Carole Ann Hall,Google Montreal,Syed Raza,carole.hall@dsv.com
